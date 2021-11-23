@@ -1,0 +1,36 @@
+[
+  {
+    "first_name": "David",
+    "last_name": "Smith",
+    "email": "David.smith@gmail.com",
+    "picture": "https://randomuser.me/api/portraits/men/14.jpg",
+    "id": 1
+  },
+  {
+    "first_name": "Zayed",
+    "last_name": "Hasan",
+    "email": "zayed.softwindtech@gmail.com",
+    "dob": "01/01/1994",
+    "picture": "https://randomuser.me/api/portraits/men/12.jpg",
+    "gender": "Male",
+    "id": 2
+  },
+  {
+    "first_name": "Zayed",
+    "last_name": "Hasan",
+    "email": "zayed.softwindtech@gmail.com",
+    "dob": "01/07/2004",
+    "picture": "https://randomuser.me/api/portraits/men/13.jpg",
+    "gender": "Male",
+    "id": 3
+  },
+  {
+    "first_name": "Zayed",
+    "last_name": "Hasan",
+    "email": "zayed.softwindtech@gmail.com",
+    "dob": "1990-10-26T01:55:56.000Z",
+    "picture": "https://randomuser.me/api/portraits/men/21.jpg",
+    "gender": "male",
+    "id": 23
+  }
+]
